@@ -7,6 +7,7 @@
 ###### 1. Klik menu Situs
 ###### 2. Klik Situs Anda
 ###### 3. Tambahkan http:// di depan alamat situs
+![halaman awal](https://github.com/freddywicaksono/api_berbasis_server/blob/main/menu_situs_saya.JPG)
 #### 5. Mempersiapkan database
 ###### 1. Klik menu "Basis Data"
 ###### 2. Klik menu "Kelola Basis Data"
