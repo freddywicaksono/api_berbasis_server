@@ -21,3 +21,10 @@
 ![halaman awal](https://github.com/freddywicaksono/api_berbasis_server/blob/main/menu_to_phpmyadmin.JPG)
 ###### 3. Klik nama basis data (di bagian kiri)
 ###### 4. Import table mahasiswa (mahasiswa.sql)
+#### 7. Klik menu "Manajer File"
+###### 1. Dari combobox pilih alamat web
+###### 2. Klik ikon "Buat Folder", beri nama : appakademik
+###### 3. Dobel klik appakademik
+###### 4. Klik ikon "Upload File", cari dan pilih semua file dari folder c:/xampp/htdocs/appakademik
+###### 5. Edit file: database.php, sesuaikan dengan nama database, username, dan password (lihat point 5)
+#### 8. Testing API lewat Postman
