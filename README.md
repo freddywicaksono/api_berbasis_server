@@ -2,6 +2,7 @@
 #### 1. Tambahkan plug-in / Extension "Google Translate" pada Browser Anda
 #### 2. Registrasi pada free web hosting di : https://free.sprinthost.ru (website dalam bahasa Rusia)
 #### 3. Tampilan Setelah registrasi
+![halaman awal](https://github.com/freddywicaksono/api_berbasis_server/blob/main/halaman_awal.JPG)
 #### 4. Mendapatkan alamat situs Anda:
 ###### 1. Klik menu Situs
 ###### 2. Klik Situs Anda
