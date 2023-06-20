@@ -14,6 +14,7 @@
 ###### 3. Klik tanda + "Buat Basis Data"
 ###### 4. Isilah nama database, nama user, dan Password. Didepan nama database dan nama user ada tambahan kata. Pastikan ketiganya dicatat.
 ![halaman awal](https://github.com/freddywicaksono/api_berbasis_server/blob/main/menu_kelola_pangkalan_data.JPG)
+![halaman awal](https://github.com/freddywicaksono/api_berbasis_server/blob/main/basis%20data2.jpg)
 #### 6. Import data lewat phpmyadmin
 ###### 1. Klik menu "Basis Data"
 ###### 2. Klik menu "PhpMyadmin"
