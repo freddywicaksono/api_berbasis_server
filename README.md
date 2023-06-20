@@ -18,5 +18,6 @@
 #### 6. Import data lewat phpmyadmin
 ###### 1. Klik menu "Basis Data"
 ###### 2. Klik menu "PhpMyadmin"
+![halaman awal](https://github.com/freddywicaksono/api_berbasis_server/blob/main/menu_to_phpmyadmin.JPG)
 ###### 3. Klik nama basis data (di bagian kiri)
 ###### 4. Import table mahasiswa (mahasiswa.sql)
